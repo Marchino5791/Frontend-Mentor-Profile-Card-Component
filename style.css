@@ -18,9 +18,10 @@ body {
   line-height: 1.50rem;
   font-family: 'Kumbh Sans', sans-serif;
   background-image: url("images/bg-pattern-top.svg"), url("images/bg-pattern-bottom.svg");
-  background-position: left top, right bottom;
+  background-position: right 50vw bottom 50vh, left 50vw top 50vh;
   background-repeat: no-repeat, no-repeat;
-  background-size: 50%, 50%;
+  background-attachment: fixed;
+  background-size: contain, contain;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -32,8 +33,8 @@ body {
 
 main {
   color: var(--Dark-gray);
-  width: 325px;
-  height: 360px;
+  width: 335px;
+  height: 370px;
   border-radius: 0.75rem;
   margin: 2rem 0;
   background-color: var(--bg-card);
