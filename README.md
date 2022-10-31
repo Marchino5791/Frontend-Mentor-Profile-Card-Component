@@ -6,24 +6,17 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### The challenge
 
 - Build out the project to the designs provided
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -42,7 +35,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-
+To use background-position properly and to discover background-attachment;
 
 ### Useful resources
 
@@ -53,9 +46,3 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Frontend Mentor - [@marchino5791](https://www.frontendmentor.io/profile/marchino5791)
 - LinkedIn - [@Marco Antonio Paolino](https://www.linkedin.com/in/marco-paolino/)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
