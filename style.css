@@ -33,8 +33,8 @@ body {
 
 main {
   color: var(--Dark-gray);
-  width: 335px;
-  height: 370px;
+  width: 20.9375rem;
+  height: 23.125rem;
   border-radius: 0.75rem;
   margin: 2rem 0;
   background-color: var(--bg-card);
@@ -94,4 +94,25 @@ main {
 
 .attribution a {
   color: hsl(228, 45%, 44%);
+}
+
+
+/*For smaller screen */
+
+@media (max-width: 365px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 325px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+@media (max-width: 285px) {
+  html {
+    font-size: 70%;
+  }
 }
