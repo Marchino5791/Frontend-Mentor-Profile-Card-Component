@@ -30,7 +30,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 - [Google Fonts](https://fonts.google.com/) - For fonts
 
 ### What I learned
